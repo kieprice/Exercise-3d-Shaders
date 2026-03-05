@@ -1,4 +1,4 @@
-# Exercise-3d-Shaders
+# Project 03--Juicy Brick-Breaker
 
 
 
@@ -6,13 +6,28 @@ Exercise for MSCH-C220
 
 
 
-The final step adding "juicy" features to a simple brick-breaker game.
+The final additions to the block breaker game. Medieval theme with the player as a monster.
 
 
 
 
 
 \## Implementation
+
+* Main menu music
+* Game level music
+* End menu music
+* Block breaking, paddle bounce, and death sound effects
+* added backgrounds to each level
+* gave a different color theme to each level
+* added a highlight to the paddle and ball
+* comet trail on ball
+* eyes on paddle
+* eyes track ball
+* added shader to end menu
+* particles when paddle is hit
+* squeeze and stretch the ball
+* gave bricks texture and different colors
 
 
 
@@ -24,19 +39,19 @@ Built in Unity 2022.3.18f1
 
 \## References
 
-&nbsp;\* \[Juice it or lose it — a talk by Martin Jonasson \& Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+ \* \[Juice it or lose it — a talk by Martin Jonasson \& Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 
-&nbsp;\* \[Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
+ \* \[Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
 
-&nbsp;\* \[Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
+ \* \[Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
 
-&nbsp;\* \[Open Color open source color scheme](https://yeun.github.io/open-color/)
+ \* \[Open Color open source color scheme](https://yeun.github.io/open-color/)
 
-&nbsp;\* \[League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
+ \* \[League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
 
-&nbsp;\* \[Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
+ \* \[Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
-* \[Piskelapp.com] (https://www.piskelapp.com/p/create/sprite/)
+* \[Piskelapp.com] (https://www.piskelapp.com/p/create/sprite/) to create art
 
 
 
@@ -44,7 +59,7 @@ Built in Unity 2022.3.18f1
 
 
 
-Multiple levels, more sprites, different background music and shaders, etc.
+animated bricks, more levels, power ups
 
 
 

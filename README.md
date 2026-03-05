@@ -2,7 +2,8 @@
 
 
 
-Exercise for MSCH-C220
+# Block Breaker
+4 March 2026
 
 
 
@@ -12,7 +13,7 @@ The final additions to the block breaker game. Medieval theme with the player as
 
 
 
-\## Implementation
+## Implementation
 
 * Main menu music
 * Game level music
@@ -37,7 +38,7 @@ Built in Unity 2022.3.18f1
 
 
 
-\## References
+## References
 
  \* \[Juice it or lose it — a talk by Martin Jonasson \& Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 
@@ -55,7 +56,7 @@ Built in Unity 2022.3.18f1
 
 
 
-\## Future Development
+## Future Development
 
 
 
@@ -63,7 +64,7 @@ animated bricks, more levels, power ups
 
 
 
-\## Created by
+## Created by
 
 
 
